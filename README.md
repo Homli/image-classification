@@ -1,7 +1,7 @@
 ## 在 floydhub.com 上运行优达学城深度学习基石纳米学位图像分类项目
 
 
-1. 在 [floydhub.com](https://www.floydhub.com) 上创建一个帐户（别忘了确认电子邮件）。你将自动获得 100 个免费 GPU 小时。
+1. 在 [floydhub.com](https://www.floydhub.com) 上创建一个帐户（别忘了确认电子邮件）。你将自动获得 2 个免费 GPU 小时。
 
 2. 在你的计算机上运行 `floyd` 命令：
 
